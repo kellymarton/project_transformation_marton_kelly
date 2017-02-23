@@ -53,7 +53,7 @@
     "eol-last": 2,
     "quotes": [
       2,
-      "single",
+      "double",
       "avoid-escape"
     ],
     "indent": [

@@ -34,15 +34,11 @@ p, ul, ol {
     line-height: 180%;
 }
 
-ul, ol {
-}
 
 a {
     color: #5E5E5E;
 }
 
-a:hover {
-}
 
 #wrapper {
     background: #FFFFFF url(../img/img05.jpg) repeat;
@@ -201,9 +197,6 @@ a:hover {
     color: #FFFFFF;
 }
 
-#menu .current_page_item a {
-}
-
 /* Page */
 
 #page {
@@ -357,26 +350,6 @@ a:hover {
     text-decoration: underline;
 }
 
-/* Calendar */
-
-#calendar {
-}
-
-#calendar_wrap {
-    padding: 20px;
-}
-
-#calendar table {
-    width: 100%;
-}
-
-#calendar tbody td {
-    text-align: center;
-}
-
-#calendar #next {
-    text-align: right;
-}
 
 /* Three Column Footer Content */
 
@@ -422,8 +395,6 @@ a:hover {
     width: 300px;
 }
 
-#footer-content a {
-}
 
 #column1 {
     float: left;
